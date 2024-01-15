@@ -1,5 +1,5 @@
 
-const pokemonCount = 700;
+const pokemonCount = 649;
 var pokedex = {}; // {1 : {"name" : "bulbsaur", "img" : url, "type" : ["grass", "poison"], "desc" : "...."} }
 
 window.onload = async function() {
